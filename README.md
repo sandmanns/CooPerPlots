@@ -4,7 +4,7 @@
     <img height="850" src="https://uni-muenster.sciebo.de/s/5fKvnfGdbKPg94G/download">
 </p>
 
-Varghese J, Sandmann S, Ochs K, Schrempf IM, Frömmel C, Dugas M, Schmidt HH, Vollenberg R, Tepasse PR. Persistent symptoms and lab abnormalities in patients who recovered from COVID-19. Sci Rep. 2021 Jun 17;11(1):12775. doi: 10.1038/s41598-021-91270-8. PMID: 34140539; PMCID: PMC8211641.
+Varghese J, Sandmann S, Ochs K, Schrempf IM, Frömmel C, Dugas M, Schmidt HH, Vollenberg R, Tepasse PR. Persistent symptoms and lab abnormalities in patients who recovered from COVID-19. Sci Rep. 2021 Jun 17;11(1):12775. doi: 10.1038/s41598-021-91270-8. 
 
 Sandmann S, Dugas M and Varghese J. CooPer plots – the next level of UpSet plots. F1000Research 2021, 10(ISCB Comm J):714 (poster) https://doi.org/10.7490/f1000research.1118684.1
 
@@ -34,3 +34,6 @@ Generate your own network by just uploading a txt file: one line represents one 
 
 ## Contact
 In case of errors or feature requests, do not hesitate to open an issue or contact Sarah Sandmann (sarah.sandmann@uni-muenster.de).
+
+## Citation
+Varghese J, Sandmann S, Ochs K, Schrempf IM, Frömmel C, Dugas M, Schmidt HH, Vollenberg R, Tepasse PR. Persistent symptoms and lab abnormalities in patients who recovered from COVID-19. Sci Rep. 2021 Jun 17;11(1):12775. doi: 10.1038/s41598-021-91270-8. 
